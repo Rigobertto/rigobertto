@@ -2,7 +2,8 @@
 
 - 🔭 Estudante universitário no curso de Ciência da Computação
 - 🌱 Aprendendo front-end (HTML, CSS, JavaScript)
-- 📫 Entre em contato comigo pelo email rigo.rfp@gmail.com ou pelo instagram @riguinho_
+- ☕ Dev Java (Spring Boot)
+- 📫 Entre em contato comigo pelo email rigo.rfp@gmail.com
 ##
 
 <div>
