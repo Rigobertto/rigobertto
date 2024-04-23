@@ -1,8 +1,7 @@
 ### Olá mortal 👋
 
 - 🔭 Estudante universitário no curso de Ciência da Computação
-- 🌱 Aprendendo front-end (HTML, CSS, JavaScript)
-- ☕ Dev Java (Spring Boot)
+- ☕ Dev Java (Spring Boot, JSF, JavaFX)
 - 📫 Entre em contato comigo pelo email rigo.rfp@gmail.com
 ##
 
