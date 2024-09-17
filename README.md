@@ -1,7 +1,7 @@
 ### Olá mortal 👋
 
 - 🔭 Estudante universitário no curso de Ciência da Computação
-- ☕ Dev Java (Spring Boot, JSF, JavaFX)
+- ☕ Dev Java (Spring Boot, JSF, JavaFX) | PHP | Android Studio | C++
 - 📫 Entre em contato comigo pelo email rigo.rfp@gmail.com
 ##
 
