@@ -1,7 +1,6 @@
 ### Olá mortal 👋
 
-- 🔭 Estudante universitário no curso de Ciência da Computação
-- ☕ Dev Java (Spring Boot, JSF, JavaFX) | PHP | C++
+- ☕ Desenvolvedor Java Spring Boot | React Js | PHP | Laravel | C++ | AWS Certified
 - 📫 Entre em contato comigo pelo email rigo.rfp@gmail.com
 ##
 
