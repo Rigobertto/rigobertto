@@ -1,7 +1,7 @@
 ### Olá mortal 👋
 
 - ☕ Desenvolvedor Java Spring Boot | Javascript (ReactJS) | PHP (Laravel) | C++
-- 🎓 Certificado oficialmente pela AWS como Cloud Practitioner
+- 🎓 Certificado oficialmente pela AWS (AWS Certified Cloud Practitioner)
 - 📫 Entre em contato comigo pelo email rigo.rfp@gmail.com
 ##
 
